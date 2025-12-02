@@ -9,6 +9,7 @@ There is a directory for each day named day_1 to day_12. Each one will contain a
 ## Progress
 
 ✅ Day 1: Secret Entrance
+✅ Day 2: Gift Shop
 
 ## About Advent of Code
 
