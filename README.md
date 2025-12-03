@@ -10,6 +10,7 @@ There is a directory for each day named day_1 to day_12. Each one will contain a
 
 - [x] Day 1: Secret Entrance
 - [x] Day 2: Gift Shop
+- [x] Day 3: Lobby
 
 ## About Advent of Code
 
