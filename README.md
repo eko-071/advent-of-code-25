@@ -13,6 +13,7 @@ There is a directory for each day named day_1 to day_12. Each one will contain a
 - [x] Day 3: Lobby
 - [x] Day 4: Printing Department
 - [x] Day 5: Cafeteria
+- [x] Day 6: Trash Compactor
 
 ## About Advent of Code
 
