@@ -1,4 +1,4 @@
-with open("day_5/input_day_5.txt", 'r') as fp:
+with open("day_5/input.txt", 'r') as fp:
     input = fp.read().splitlines()
 
 index = input.index("")

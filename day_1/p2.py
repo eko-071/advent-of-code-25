@@ -1,6 +1,6 @@
 input = list()
 
-with open("day_1/input_day_1.txt", 'r') as fp:
+with open("day_1/input.txt", 'r') as fp:
     for line in fp:
         input.append(line.strip())
 

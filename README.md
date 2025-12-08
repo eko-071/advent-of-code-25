@@ -4,7 +4,7 @@ This repository contains my solutions for Advent of Code 2025. I'll mainly be us
 
 ## Structure
 
-There is a directory for each day named day_1 to day_12. Each one will contain an `input.txt` file and 2 files `day_x_p1` and `day_x_p2` for each part.
+There is a directory for each day named day_1 to day_12. Each one will contain an `input.txt` file and 2 files `p1` and `p2` for each part.
 
 ## Progress
 

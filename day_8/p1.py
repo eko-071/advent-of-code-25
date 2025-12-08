@@ -34,7 +34,7 @@ class kruskal:
                 roots[root] = self.size[root]
         return sorted(roots.values(), reverse=True)  
 
-with open("day_8/input_day_8.txt", 'r') as fp:
+with open("day_8/input.txt", 'r') as fp:
     input = fp.read().splitlines()
 
 coordinates = list()

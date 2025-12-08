@@ -1,4 +1,4 @@
-with open("day_3/input_day_3.txt", 'r') as fp:
+with open("day_3/input.txt", 'r') as fp:
     input = fp.read().splitlines()
 
 banks = list()

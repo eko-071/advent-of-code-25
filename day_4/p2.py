@@ -1,4 +1,4 @@
-with open("day_4/input_day_4.txt", 'r') as fp:
+with open("day_4/input.txt", 'r') as fp:
     grid = [list(line) for line in fp.read().splitlines()]
 
 rows = len(grid)

@@ -1,4 +1,4 @@
-with open("day_2/input_day_2.txt", 'r') as fp:
+with open("day_2/input.txt", 'r') as fp:
     input = fp.readline().split(",")
 
 ranges = list()
