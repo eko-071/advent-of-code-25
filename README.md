@@ -16,7 +16,7 @@ There is a directory for each day named day_1 to day_12. Each one will contain a
 - [x] Day 6: Trash Compactor
 - [x] Day 7: Laboratories
 - [x] Day 8: Playground
-- [ ] Day 9: Movie Theater
+- [x] Day 9: Movie Theater
 - [x] Day 10: Factory
 - [x] Day 11: Reactor
 - [x] day 12: Christmas Tree Farm
